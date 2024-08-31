@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.cajaUno {
+    background-color: #0d1025;
+    height: 150px;
+}
+
+.title {
+    margin-top: 20px;
+    width: 300px;
+    margin-left: 70px;
+}
+
+.menu {
+    background-color: #22242A;
+    height: 83px;
+}
+
+.inicio {
+    width: 100px;
+    height: 27;
+}
+
+.cajaDos {
+    background-color: #0d1025;
+    height: 400px;
+}
+
+.from {
+    width: 400px;
+    height: 280px;
+    margin-top: 60px;
+}
+
+.cajaTres {
+    background-color: #3F81C3;
+    height: 300px;
+}
+
+.cajaCuatro {
+    background-color: #4186C6;
+    height: 300px;
+}
+
+.cajaCinco {
+    background-color: #428ECF;
+    height: 300px;
+}
+
+.cajaSeis {
+    background-color: #0a1356;
+    height: 400px;
+}
+
+.cajaSiete {
+    background-color: #0a1356;
+    height: 400px;
+}
+
+.cajaOcho {
+    background-color: #0a1356;
+    height: 400px;
+}
+
+.miniaturas{
+    margin-top: 1px;
+}
+
+.cajaNueve {
+    background-color: #0d1025;
+    height: 500px;
+}
+
+.cajaDiez {
+    background-color: #2535b1;
+    height: 300px;
+}
+
+.cajaOnce {
+    background-color: #0d1025;
+    height: 300px;
+}
+
+.mult {
+    height: 250px;
+    width: 320px;
+}
+
+.smart {
+    height: 250px;
+    width: 320px;
+}
+
+.blody {
+    height: 250px;
+    width: 320px;
+}
+
+img.foot {
+    width: 150px;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+
+p {
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.texto {
+    text-align: justify;
+}
+
+.public{
+    margin-top: 15px;
+}
+
